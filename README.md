@@ -28,7 +28,7 @@ Projetos Práticos: Desenvolvimento de várias aplicações para solidificar o c
 📁 Estrutura do Repositório
 O repositório está organizado em pastas, com cada uma representando uma seção ou módulo importante do curso, contendo os respectivos códigos e projetos desenvolvidos:
 
-.
+
 -ChallengeCSS/
 
 -CursoReact-Secao-1-Parte-Basica/
