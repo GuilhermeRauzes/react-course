@@ -44,7 +44,6 @@ Dentro de cada pasta de projeto, você encontrará o código-fonte correspondent
 Para rodar qualquer um dos projetos presentes neste repositório, siga os passos abaixo:
 
 Clone o repositório:
-Bash
 
 git clone https://github.com/GuilhermeRauzes/react-course.git
 Navegue até a pasta do projeto desejado:
