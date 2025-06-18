@@ -1,0 +1,22 @@
+html {
+  padding: 0;
+  margin: 0;
+  font-family: helvetica;
+  text-align: center
+}
+
+h1 {
+  margin: 0;
+  padding: 20px;
+  background-color: #333;
+  color: orange;
+}
+
+.car-container {
+  display: flex;
+  justify-content: center;
+}
+
+.car-container div {
+  margin-top: 30px;
+}

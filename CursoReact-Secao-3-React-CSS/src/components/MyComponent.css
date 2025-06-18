@@ -1,0 +1,11 @@
+p {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+}
+
+.my-comp-paragraph {
+  background-color: red;
+  color: white;
+  font-size: 24px;
+}
